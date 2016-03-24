@@ -1,0 +1,16 @@
+{
+  "name": "hain-plugin-snippet",
+  "version": "0.0.1",
+  "description": "Snip your code",
+  "main": "index.js",
+  "author": "Kévin MEISSONNIER",
+  "license": "MIT",
+  "keywords": [
+    "hain0"
+  ],
+  "hain": {
+    "prefix": "/snip",
+    "usage": "/snip code",
+    "redirect": "/snip "
+  }
+}
