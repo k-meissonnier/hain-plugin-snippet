@@ -9,8 +9,14 @@
     "hain0"
   ],
   "hain": {
-    "prefix": "/snip",
-    "usage": "/snip code",
-    "redirect": "/snip "
+    "prefix": "/snippet",
+    "usage": "/snippet",
+    "icon": "/icon.png",
+    "redirect": "/snippet "
+  },
+  "dependencies": {
+    "copy-paste": "^1.1.4",
+    "fs": "0.0.2",
+    "line-by-line": "^0.1.4"
   }
 }
